@@ -5,5 +5,4 @@
 ## Atualmente Front-end:
 ![vs-code-svgrepo-com](https://user-images.githubusercontent.com/101679144/233904359-b06eab26-09a0-48f0-980e-bba4971411f0.svg) ![html-5-svgrepo-com](https://user-images.githubusercontent.com/101679144/233904385-e9d3a44e-6593-43ee-84c8-941612f2eeca.svg) ![css-3-svgrepo-com](https://user-images.githubusercontent.com/101679144/233904416-a35c0e5c-99fb-4626-8913-9d214550b7b9.svg) 
 ## Atualmente estudando:
-![java-svgrepo-com (1)](https://github.com/HalterDevTi/CloneInstagram/assets/101679144/d6af1456-f489-4b74-bd89-6d645c3888c4)
-
+![java-svgrepo-com (1)](https://github.com/HalterDevTi/HalterDevTi/assets/101679144/1af3048a-02f2-4fd2-a1e1-cee60523c32e)
